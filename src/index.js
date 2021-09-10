@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Container, Header } from "semantic-ui-react";
-
-import pkg from 'semantic-ui-react/package.json'
 import EnvBuilderForm from "./EnvBuilderForm";
 
 const App = ({ children }) => (

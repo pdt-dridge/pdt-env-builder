@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pdt-env-builder/static/js/main.54c00762.chunk.js",
+    "main.js.map": "/pdt-env-builder/static/js/main.54c00762.chunk.js.map",
+    "runtime-main.js": "/pdt-env-builder/static/js/runtime-main.a0f402db.js",
+    "runtime-main.js.map": "/pdt-env-builder/static/js/runtime-main.a0f402db.js.map",
+    "static/js/2.20e0fa68.chunk.js": "/pdt-env-builder/static/js/2.20e0fa68.chunk.js",
+    "static/js/2.20e0fa68.chunk.js.map": "/pdt-env-builder/static/js/2.20e0fa68.chunk.js.map",
+    "index.html": "/pdt-env-builder/index.html",
+    "static/js/2.20e0fa68.chunk.js.LICENSE.txt": "/pdt-env-builder/static/js/2.20e0fa68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0f402db.js",
+    "static/js/2.20e0fa68.chunk.js",
+    "static/js/main.54c00762.chunk.js"
+  ]
+}
